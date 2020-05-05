@@ -1,0 +1,18 @@
+python for begginers from jupyter
+https://nbviewer.jupyter.org/github/ehmatthes/intro_programming/blob/master/notebooks/syllabus.ipynb
+
+
+Python in one picture
+https://i.imgur.com/nDPI4Xs.png
+https://diveintopython3.net/table-of-contents.html
+
+
+Python Cheatsheet
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+
+Beat the Codility Coding Interview in Python (Udemy)
+https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/
+
+Programming Foundations: Fundamentals (Lynda)
+https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
