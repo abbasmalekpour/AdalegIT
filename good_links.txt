@@ -21,8 +21,3 @@ https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/
 
 Programming Foundations: Fundamentals (Lynda)
 https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
-<<<<<<< HEAD
-
-this is a new line
-=======
->>>>>>> master
