@@ -21,3 +21,11 @@ https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/
 
 Programming Foundations: Fundamentals (Lynda)
 https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html
+
+
+Pandas Cheatsheet
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://www.dataquest.io/blog/pandas-cheat-sheet/
+
+SQL interview Question
+https://www.youtube.com/watch?v=-6v7ctxC7yk&list=PLqM7alHXFySGweLxxAdBDK1CcDEgF-Kwx
