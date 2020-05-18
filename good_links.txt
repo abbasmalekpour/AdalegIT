@@ -29,3 +29,7 @@ https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 SQL interview Question
 https://www.youtube.com/watch?v=-6v7ctxC7yk&list=PLqM7alHXFySGweLxxAdBDK1CcDEgF-Kwx
+
+
+DBeaver
+dbeaver.io
