@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=-6v7ctxC7yk&list=PLqM7alHXFySGweLxxAdBDK1CcDEgF-
 
 DBeaver
 dbeaver.io
+
+Deployment of Machine Learning Models
+https://www.udemy.com/course/deployment-of-machine-learning-models/
