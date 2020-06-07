@@ -1,5 +1,6 @@
 python for begginers from jupyter
 https://nbviewer.jupyter.org/github/ehmatthes/intro_programming/blob/master/notebooks/syllabus.ipynb
+https://www.learnpython.org/
 
 
 Python in one picture
