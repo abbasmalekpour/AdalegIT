@@ -25,6 +25,7 @@ https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-
 
 
 Pandas Cheatsheet
+https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 https://www.dataquest.io/blog/pandas-cheat-sheet/
 
@@ -37,3 +38,16 @@ dbeaver.io
 
 Deployment of Machine Learning Models
 https://www.udemy.com/course/deployment-of-machine-learning-models/
+
+
+
+Books:
+1- Python for Data Analysis, 2nd Edition
+2- Hands-On-Machine-Learning-with-Scikit-Learn-Keras-Tensorflow
+3- An Introduction to Statistical Learning
+4- Cracking-The-Machine-Learning-Interview-Nitin-Suri
+
+
+Machine Learning:
+Andrew ng. github https://github.com/vkosuri/CourseraMachineLearning
+Andrew ng. Youtube https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
