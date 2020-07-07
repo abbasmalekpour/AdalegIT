@@ -51,3 +51,6 @@ Books:
 Machine Learning:
 Andrew ng. github https://github.com/vkosuri/CourseraMachineLearning
 Andrew ng. Youtube https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+evaluate a machine learning model’s performance (Confusion Matrix)
+https://towardsdatascience.com/various-ways-to-evaluate-a-machine-learning-models-performance-230449055f15
